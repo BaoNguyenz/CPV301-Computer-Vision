@@ -1,1 +1,1 @@
-# CPV301-Computer Vision
+# CPV301-Computer-Vision
